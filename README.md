@@ -140,17 +140,6 @@ Run notebooks in order:
 - Use GridSearchCV or RandomizedSearchCV
 - Improve Gradient Boosting performance
 
-### Real-Time Prediction System
-- Build a simple interface for live predictions
-- Use Streamlit or similar framework
-
-### Deep Learning Models
-- Experiment with neural networks for sequence classification
-- Compare with classical machine learning models
-
-### Deployment
-- Deploy model as a web app or API
-
 ---
 
 ## Conclusion
